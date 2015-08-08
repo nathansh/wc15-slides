@@ -1,0 +1,24 @@
+.reveal {
+	h1 {
+		text-transform: none;
+	} // h1 
+	.twitter-handle {
+		font-size: .75em;
+		text-transform: lowercase;
+		display: inline-block;
+		float: right;
+	}
+	img.normcore {
+		background: none;
+		border: 0;
+		box-shadow: none;
+	}
+	img.screenshot {
+		margin-top: -7%;
+	}
+}
+.slide {
+	&--first {
+		text-align: left;
+	} // &--first 
+} // .slide 
