@@ -18,7 +18,11 @@
 	}
 }
 .slide {
+	&--left,
 	&--first {
 		text-align: left;
 	} // &--first 
 } // .slide 
+.print_workaround {
+	text-indent: -9999px;
+} // .print_workaround 

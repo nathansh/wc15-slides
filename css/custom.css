@@ -12,5 +12,8 @@
 .reveal img.screenshot {
   margin-top: -7%; }
 
-.slide--first {
+.slide--left, .slide--first {
   text-align: left; }
+
+.print_workaround {
+  text-indent: -9999px; }
