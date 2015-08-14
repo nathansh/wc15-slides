@@ -1,0 +1,28 @@
+.reveal {
+	h1 {
+		text-transform: none;
+	} // h1 
+	.twitter-handle {
+		font-size: .75em;
+		text-transform: lowercase;
+		display: inline-block;
+		float: right;
+	}
+	img.normcore {
+		background: none;
+		border: 0;
+		box-shadow: none;
+	}
+	img.screenshot {
+		margin-top: -7%;
+	}
+}
+.slide {
+	&--left,
+	&--first {
+		text-align: left;
+	} // &--first 
+} // .slide 
+.print_workaround {
+	text-indent: -9999px;
+} // .print_workaround 

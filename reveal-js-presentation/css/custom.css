@@ -1,0 +1,19 @@
+.reveal h1 {
+  text-transform: none; }
+.reveal .twitter-handle {
+  font-size: 0.75em;
+  text-transform: lowercase;
+  display: inline-block;
+  float: right; }
+.reveal img.normcore {
+  background: none;
+  border: 0;
+  box-shadow: none; }
+.reveal img.screenshot {
+  margin-top: -7%; }
+
+.slide--left, .slide--first {
+  text-align: left; }
+
+.print_workaround {
+  text-indent: -9999px; }
